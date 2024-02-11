@@ -3,7 +3,7 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/dev.png" width="150"/>
 </p>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/s%C3%A9verin-lef%C3%A9bure-27880a1a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
   </a>
@@ -15,7 +15,8 @@
 
 
 ### 🖊️ - Experiences
-**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** (February 2024 - August 2024) (Ongoing)
+**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** \
+February 2024 - August 2024 (Ongoing) \
 * Designing a Spark app for managing bank transactions.
 
 **Openvalue - Generative AI Consultant Intern - Groupe La Poste** (April 2023 - July 2023)
