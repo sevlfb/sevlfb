@@ -8,10 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=sevlfb&style=flat-square&color=blue" alt=""/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sevlfb&style=flat-square&color=blue" alt=""/>
+</p>
 
 
-🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** #photo
+🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.png" width="150"/>
 
 
 ### 🖊️ - Experiences
@@ -71,6 +74,8 @@ Progress of a research project : State of the Art of Probabilistic Automata and 
 -->
 
 ## My GitHub Stats (only public projects)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevlfb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars,issues&show_icons=true&rank_icon=github&include_all_commits=true&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
