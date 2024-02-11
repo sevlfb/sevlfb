@@ -22,6 +22,9 @@
 
 I need to add badges for the technologies I master
 
+![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-a?logo=microsoftazure&logoColor=blue&labelColor=white&color=blue)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Azure-a?logo=microsoftazure&logoColor=blue&labelColor=white&color=blue)
+
 
 [![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
 
