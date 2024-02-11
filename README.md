@@ -2,6 +2,7 @@
   <a href="https://www.linkedin.com/in/s%C3%A9verin-lef%C3%A9bure-27880a1a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=sevlfb&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## About me
