@@ -19,13 +19,14 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
-<div id="badges" align="center">
-    <img src="https://img.shields.io/badge/a?style=flat&label=a" alt="badge"/>
+<p>
+  <a href=""> 
+    <img src="https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue">
   </a>
-</div>
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&label=My%20resume%20:point_left:&labelColor=white&color=grey)
+</p>
 
-![Static Badge]()
+[#ok](Salut)
+
 
 ### 🌱 - Learning
 * Data Science
