@@ -14,7 +14,7 @@
 </p>
 
 
-🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="150"/>
+🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="30"/>
 
 
 ### 🖊️ - Experiences
