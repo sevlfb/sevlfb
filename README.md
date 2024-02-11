@@ -51,9 +51,10 @@
 
 ## My Resume
 
-<h4>
-🖊️ - Experiences
-</h4>
+<h2>
+  <p style="color:gold;">🖊️ - Experiences</p>
+</h2>
+
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
 * Designing a Spark app for managing bank transactions.
