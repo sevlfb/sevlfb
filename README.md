@@ -1,5 +1,7 @@
 ## About me
-<img src="https://github.com/sevlfb/sevlfb/blob/main/img/dev.png" width="50"/>
+<p align="center">
+  <img src="https://github.com/sevlfb/sevlfb/blob/main/img/dev.png" width="150"/>
+</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/s%C3%A9verin-lef%C3%A9bure-27880a1a8/">
