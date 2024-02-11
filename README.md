@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars&show_icons=true&hide_rank&title_color=3944BC&bg_color=0.5,B90E0A,DD571C)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars&show_icons=true&hide_rank&title_color=FCFBFC&bg_color=0.1,B90E0A,DD571C)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 transparent
 -->
