@@ -71,7 +71,7 @@
 * Field data sampling for mathematical model calibration
 
 ### 📚 $\color{gold}{\textbf{ - Academic training}}$
-$\color{goldenrod}{\textbf{ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)}}$ <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
+$\color{goldenrod}{\textbf{\textsf{ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)}}}$ <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
 *2019 - 2024*
 
 **Master degree in Data and Artificial Intelligence**
