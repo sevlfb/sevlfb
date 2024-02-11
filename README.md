@@ -19,6 +19,8 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&label=My%20resume%20%F0%9F%91%88&labelColor=white&color=grey)
+
 ### 🌱 - Learning
 * Data Science
 * Data Engineering (Spark, HDFS)
@@ -32,6 +34,18 @@
 * Data Science
 * Data Engineering
 * Generative AI for NLP (Azure and AWS)
+
+## My GitHub Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevlfb&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars,issues&show_icons=true&rank_icon=github&include_all_commits=true&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevlfb&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevlfb&size_weight=0.5&count_weight=0.5&layout=donut&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)
+
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevlfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ### 🖊️ - Experiences
@@ -90,15 +104,3 @@ Progress of a research project : State of the Art of Probabilistic Automata and 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## My GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevlfb&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars,issues&show_icons=true&rank_icon=github&include_all_commits=true&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevlfb&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevlfb&size_weight=0.5&count_weight=0.5&layout=donut&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)
-
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevlfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
