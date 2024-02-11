@@ -13,29 +13,32 @@
   <img src="https://komarev.com/ghpvc/?username=sevlfb&style=flat-square&color=blue" alt=""/>
 </p>
 
-
-<img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/> 🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
-
+<p align="center">
+  <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/> 
+  🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** 
+  <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
+</p>
 
 ### 🖊️ - Experiences
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
-February 2024 - August 2024 (Ongoing) \
+*February 2024 - August 2024* (Ongoing)
 * Designing a Spark app for managing bank transactions.
 
-**Openvalue - Generative AI Consultant Intern - Groupe La Poste** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/ov-removebg.png" width="24"/>\
-(April 2023 - July 2023) \
-* Advancing on : Automatic answers for Call for Tender 
+**Openvalue - Generative AI Consultant Intern - Groupe La Poste** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/ov-removebg.png" height="24"/>\
+*April 2023 - July 2023*
+* Advancing on : ***Automatic answer for Call for Tender***
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-**MyAnatol - BI Engineer Intern - LOTANA TECH** (June 2021 - July 2021)
+**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="24"/>\ 
+*June 2021 - July 2021*
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
 * Field data sampling for mathematical model calibration
 
 ### 📚 - Academic training
 **ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
-(2019 - 2024)
+*2019 - 2024*
 **Master degree in Data and Artificial Intelligence**
 * OS (bash), Webdata & Semantics, Machine Learning, Deep Learning, NLP, Data Analysis, Advanced NoSQL
 * Multi-Agent, Experimental Methods, Optimization
@@ -43,12 +46,14 @@ February 2024 - August 2024 (Ongoing) \
 
 Soft Skills : Méthodes Agiles - Intelligence Collective - Design Thinking - Leadership
 
-#### CSULB Long Beach University (Semester abroad: USA, California) (August 2021 - December 2021)
+**CSULB Long Beach University (Semester abroad: USA, California)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" width="24"/>\
+*August 2021 - December 2021*
 Structures des données, Algorithmie, Thermodynamique, Statistiques avancées
 
 
 ### 🔭 - Projects
-Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot (September 2023 - January 2021)
+Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" width="24"/>\
+*September 2023 - January 2021*
 Creating a chatbot for ViveS Media, supervides by Microsoft France
 * AWS Bedrock * Langchain * Streamlit
 * Crisis Management * Consulting * Technical Deliverables * Teamwork
