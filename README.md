@@ -51,11 +51,8 @@
 
 ## My Resume
 
-🖊️ $${\fontfamily{qcr}\selectfont}{\color{gold}Experiences}$$
+$\color{gold}{\textsf{🖊️ - Experiences}}$
 
-<code style="color : gold">TESTE</code>
-
-#0f0[This is green text]
 
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
