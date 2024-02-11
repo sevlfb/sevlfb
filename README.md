@@ -51,9 +51,7 @@
 
 ## My Resume
 
-<h2>
-  <font color="#EDC967">🖊️ - Experiences</font>
-</h2>
+<font color="#EDC967">🖊️ - Experiences</font>
 
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
