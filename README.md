@@ -23,6 +23,12 @@
 [![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
 
 
+$\color{goldenrod}{\textbf{\textsf{aaaaaaa}}}$
+$\color{goldenrod}{\textsf{aaaaaaa}}$
+**$\color{goldenrod}{\textbf{\textsf{aaaaaaa}}}$**
+
+
+
 ### 🌱 - Learning
 * Data Science
 * Data Engineering (Spark, HDFS)
