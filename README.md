@@ -51,7 +51,7 @@
 
 ## My Resume
 
-### 🖊️ $\color{gold}{\textsf{ - Experiences}}$
+### 🖊️ $\color{gold}{\textbf{ - Experiences}}$
 
 
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
@@ -70,8 +70,8 @@
 * Customer segments for the IOS MyAnatol app
 * Field data sampling for mathematical model calibration
 
-### 📚 - Academic training
-**ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
+### 📚 $\color{gold}{\textbf{ - Academic training}}$
+$\color{goldenrod}{\textbf{ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)}}$ <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
 *2019 - 2024*
 
 **Master degree in Data and Artificial Intelligence**
@@ -89,7 +89,7 @@
 * Statistiques avancées
 
 
-### 🔭 - Projects
+### 🔭 $\color{gold}{\textbf{ - Projects}}$
 **Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" height="24"/>\
 *September 2023 - January 2021*\
 Creating a chatbot for **ViveS Media - Groupe Bayard**, supervides by **Microsoft France**
