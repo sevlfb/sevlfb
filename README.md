@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/> 
-  🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** 
+  🧑🏻‍🎓 <b>Master Degree in Data and Artificial Intelligence</b> at <b>ESILV</b> 
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
@@ -30,7 +30,7 @@
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="24"/>\ 
+**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>\ 
 *June 2021 - July 2021*
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
@@ -39,26 +39,30 @@
 ### 📚 - Academic training
 **ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
 *2019 - 2024*
+
 **Master degree in Data and Artificial Intelligence**
+
 * OS (bash), Webdata & Semantics, Machine Learning, Deep Learning, NLP, Data Analysis, Advanced NoSQL
 * Multi-Agent, Experimental Methods, Optimization
 * DataViz, Structure des données Cloud, Big Data and Spark, Big Data Ecosystem, 
 
-Soft Skills : Méthodes Agiles - Intelligence Collective - Design Thinking - Leadership
+* **Soft Skills** : *Méthodes Agiles* - *Intelligence Collective* - *Design Thinking* - *Leadership*
 
-**CSULB Long Beach University (Semester abroad: USA, California)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" width="24"/>\
-*August 2021 - December 2021*
-Structures des données, Algorithmie, Thermodynamique, Statistiques avancées
+**CSULB Long Beach University (Semester abroad: USA, California)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" height="24"/>\
+*August 2021 - December 2021*\
+* Structures des données, Algorithmie
+* Thermodynamique
+* Statistiques avancées
 
 
 ### 🔭 - Projects
-Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" width="24"/>\
+**Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" width="24"/>\
 *September 2023 - January 2021*
-Creating a chatbot for ViveS Media, supervides by Microsoft France
+Creating a chatbot for **ViveS Media - Groupe Bayard**, supervides by **Microsoft France**
 * AWS Bedrock * Langchain * Streamlit
 * Crisis Management * Consulting * Technical Deliverables * Teamwork
 
-Recherche Track – 4th year at ESILV - (Touristic behavior prediction)
+**Recherche Track – 4th year at ESILV - (Touristic behavior prediction)**\
 Progress of a research project : State of the Art of Probabilistic Automata and Sequence Prediction. Symbolic AI.
 
 
