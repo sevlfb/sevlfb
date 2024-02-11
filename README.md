@@ -23,15 +23,6 @@
 [![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
 
 
-$\color{goldenrod}{\textbf{\textsf{aaaaaaa}}}$
-
-$\color{goldenrod}{\textsf{aaaaaaa}}$
-
-**$\color{goldenrod}{\textbf{\textsf{aaaaaaa}}}$**
-
-**aaa**
-
-
 ### 🌱 - Learning
 * Data Science
 * Data Engineering (Spark, HDFS)
@@ -60,27 +51,27 @@ $\color{goldenrod}{\textsf{aaaaaaa}}$
 
 ## My Resume
 
-### 🖊️ $\color{gold}{\textbf{ - Experiences}}$
+### 🖊️ $\color{gold}{\textsf{ - Experiences}}$
 
 
-**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
+**$\color{goldenrod}{\textsf{Thales - Big Data Engineer Intern - Consulting for BNP Paribas}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
 * Designing a Spark app for managing bank transactions.
 
-**Openvalue - Generative AI Consultant Intern - Groupe La Poste** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/ov-removebg.png" height="24"/>\
+**$\color{goldenrod}{\textsf{Openvalue - Generative AI Consultant Intern - Groupe La Poste}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/ov-removebg.png" height="24"/>\
 *April 2023 - July 2023*
 * Advancing on : ***Automatic answer for Call for Tender***
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>\
+**$\color{goldenrod}{\textsf{MyAnatol - BI Engineer Intern - LOTANA TECH}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>\
 *June 2021 - July 2021*
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
 * Field data sampling for mathematical model calibration
 
-### 📚 $\color{gold}{\textbf{ - Academic training}}$
-$\color{goldenrod}{\textbf{\textsf{ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)}}}$ <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
+### 📚 $\color{gold}{\textsf{ - Academic training}}$
+**$\color{goldenrod}{\textsf{ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
 *2019 - 2024*
 
 **Master degree in Data and Artificial Intelligence**
@@ -91,21 +82,21 @@ $\color{goldenrod}{\textbf{\textsf{ESILV (Ecole Supérieure d’Ingénieur du P�
 
 * **Soft Skills** : *Méthodes Agiles* - *Intelligence Collective* - *Design Thinking* - *Leadership*
 
-**CSULB Long Beach University (Semester abroad: USA, California)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" height="24"/>\
+**$\color{goldenrod}{\textsf{CSULB Long Beach University (Semester abroad: USA, California)}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" height="24"/>\
 *August 2021 - December 2021*
 * Structures des données, Algorithmie
 * Thermodynamique
 * Statistiques avancées
 
 
-### 🔭 $\color{gold}{\textbf{ - Projects}}$
-**Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" height="24"/>\
+### 🔭 $\color{gold}{\textsf{ - Projects}}$
+**$\color{goldenrod}{\textsf{Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot}}$** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" height="24"/>\
 *September 2023 - January 2021*\
 Creating a chatbot for **ViveS Media - Groupe Bayard**, supervides by **Microsoft France**
 * AWS Bedrock * Langchain * Streamlit
 * Crisis Management * Consulting * Technical Deliverables * Teamwork
 
-**Recherche Track – 4th year at ESILV - (Touristic behavior prediction)**\
+**$\color{goldenrod}{\textsf{Recherche Track – 4th year at ESILV - (Touristic behavior prediction)}}$**\
 Progress of a research project : State of the Art of Probabilistic Automata and Sequence Prediction. Symbolic AI.
 
 
