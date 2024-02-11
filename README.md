@@ -25,7 +25,7 @@
   </a>
 </p>
 
-[#ok](Salut)
+[![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
 
 
 ### 🌱 - Learning
@@ -54,6 +54,7 @@
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevlfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
+## My Resume
 
 ### 🖊️ - Experiences
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
