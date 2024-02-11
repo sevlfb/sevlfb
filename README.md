@@ -49,6 +49,10 @@
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevlfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
+## My Leetcode stats
+
+![](https://leetcard.jacoblin.cool/sttr38?theme=unicorn)
+
 ## My Resume
 
 ### 🖊️ $\color{gold}{\textsf{ - Experiences}}$
