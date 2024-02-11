@@ -3,6 +3,7 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/dev.png" width="150"/>
 </p>
 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/s%C3%A9verin-lef%C3%A9bure-27880a1a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
@@ -18,6 +19,8 @@
   🧑🏻‍🎓 <b>Master Degree in Data and Artificial Intelligence</b> at <b>ESILV</b> 
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
+
+I need to add badges for the technologies I master
 
 
 [![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
@@ -36,6 +39,8 @@
 * Data Science
 * Data Engineering
 * Generative AI for NLP (Azure and AWS)
+
+## My repos
 
 ## My GitHub Stats
 
