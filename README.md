@@ -4,7 +4,7 @@
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sevlfb&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevlfb&size_weight=0.5&count_weight=0.5&layout=donut&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1792FAD,A54A99&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevlfb&size_weight=0.5&count_weight=0.5&layout=donut&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)
 
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sevlfb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
