@@ -19,11 +19,6 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
-<p>
-  <a href=""> 
-    <img src="https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue">
-  </a>
-</p>
 
 [![Static Badge](https://img.shields.io/badge/My%20resume-%F0%9F%91%88-a?style=for-the-badge&logoColor=blue&labelColor=grey&color=blue)](#my-resume)
 
@@ -56,7 +51,9 @@
 
 ## My Resume
 
-### 🖊️ - Experiences
+<h4>
+🖊️ - Experiences
+</h4>
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
 * Designing a Spark app for managing bank transactions.
@@ -67,8 +64,7 @@
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>
-
+**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>\
 *June 2021 - July 2021*
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
