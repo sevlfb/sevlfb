@@ -14,16 +14,17 @@
 </p>
 
 
-🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="30"/>
+<img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/> 🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 
 
 ### 🖊️ - Experiences
-**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** \
+**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 February 2024 - August 2024 (Ongoing) \
 * Designing a Spark app for managing bank transactions.
 
-**Openvalue - Generative AI Consultant Intern - Groupe La Poste** (April 2023 - July 2023)
-* Advancing on : Automatic answers for Call for Tender
+**Openvalue - Generative AI Consultant Intern - Groupe La Poste** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/ov-removebg.png" width="24"/>\
+(April 2023 - July 2023) \
+* Advancing on : Automatic answers for Call for Tender 
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
@@ -33,7 +34,8 @@ February 2024 - August 2024 (Ongoing) \
 * Field data sampling for mathematical model calibration
 
 ### 📚 - Academic training
-**ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** (2019 - 2024)
+**ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>\
+(2019 - 2024)
 **Master degree in Data and Artificial Intelligence**
 * OS (bash), Webdata & Semantics, Machine Learning, Deep Learning, NLP, Data Analysis, Advanced NoSQL
 * Multi-Agent, Experimental Methods, Optimization
