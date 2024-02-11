@@ -21,6 +21,8 @@
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&label=My%20resume%20:point_left:&labelColor=white&color=grey)
 
+![Static Badge](https://img.shields.io/badge/a?style=flat&label=a)
+
 ### 🌱 - Learning
 * Data Science
 * Data Engineering (Spark, HDFS)
