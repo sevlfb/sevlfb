@@ -45,6 +45,8 @@ I need to add badges for the technologies I master
 
 ## My repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/sevlfb/Webscrapping-Project)
+
 ## My GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevlfb&theme=dark&background=000000)](https://git.io/streak-stats)
