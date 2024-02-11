@@ -19,7 +19,7 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&label=My%20resume%20%F0%9F%91%88&labelColor=white&color=grey)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=social&label=My%20resume%20:point_left:&labelColor=white&color=grey)
 
 ### 🌱 - Learning
 * Data Science
