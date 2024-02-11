@@ -1,3 +1,9 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/s%C3%A9verin-lef%C3%A9bure-27880a1a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedInBadge"/>
+  </a>
+</div>
+
 ## About me
 🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** #photo
 
@@ -32,7 +38,7 @@ Structures des données, Algorithmie, Thermodynamique, Statistiques avancées
 ### 🔭 - Projects
 Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot (September 2023 - January 2021)
 Creating a chatbot for ViveS Media, supervides by Microsoft France
-* AWS Bedrock * Langchain * Streamlit \\
+* AWS Bedrock * Langchain * Streamlit
 * Crisis Management * Consulting * Technical Deliverables * Teamwork
 
 Recherche Track – 4th year at ESILV - (Touristic behavior prediction)
@@ -57,7 +63,7 @@ Progress of a research project : State of the Art of Probabilistic Automata and 
 - ⚡ Fun fact: ...
 -->
 
-
+## My GitHub Stats (only public projects)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevlfb&hide=stars,issues&show_icons=true&rank_icon=github&include_all_commits=true&title_color=FCFBFC&text_color=FFFFF0&bg_color=0.1,792FAD,A54A99&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
 
