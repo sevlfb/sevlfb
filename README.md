@@ -1,28 +1,31 @@
 ## About me
+🧑🏻‍🎓 **Master Degree in Data and Artificial Intelligence** at **ESILV** #photo
 
 
 ### 🖊️ - Experiences
-Thales - Big Data Engineer Intern - Consulting for BNP Paribas (February 2024 - August 2024) (Ongoing)
+**Thales - Big Data Engineer Intern - Consulting for BNP Paribas** (February 2024 - August 2024) (Ongoing)
 * Designing a Spark app for managing bank transactions.
 
-Openvalue - Generative AI Consultant Intern - Groupe La Poste (April 2023 - July 2023)
+**Openvalue - Generative AI Consultant Intern - Groupe La Poste** (April 2023 - July 2023)
 * Advancing on : Automatic answers for Call for Tender
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-MyAnatol - BI Engineer Intern - LOTANA TECH (June 2021 - July 2021)
+**MyAnatol - BI Engineer Intern - LOTANA TECH** (June 2021 - July 2021)
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
 * Field data sampling for mathematical model calibration
 
-### 📚 - Formation
-#### ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)
-OS (bash), Webdata & Semantics, Machine Learning, Deep Learning, NLP, Data Analysis, Advanced NoSQL, Multi-Agent, Experimental Methods, Optimization, DataViz, Structure des données Cloud, Big Data and Spark, Big Data Ecosystem, 
+### 📚 - Academic training
+**ESILV (Ecole Supérieure d’Ingénieur du Pôle Léonard de Vinci, Courbevoie)** (2019 - 2024)
+**Master degree in Data and Artificial Intelligence**
+* OS (bash), Webdata & Semantics, Machine Learning, Deep Learning, NLP, Data Analysis, Advanced NoSQL
+* Multi-Agent, Experimental Methods, Optimization
+* DataViz, Structure des données Cloud, Big Data and Spark, Big Data Ecosystem, 
 
 Soft Skills : Méthodes Agiles - Intelligence Collective - Design Thinking - Leadership
 
-#### CSULB Long Beach University (Semester abroad: USA, California) 
-Août – Décembre 2021 
+#### CSULB Long Beach University (Semester abroad: USA, California) (August 2021 - December 2021)
 Structures des données, Algorithmie, Thermodynamique, Statistiques avancées
 
 
