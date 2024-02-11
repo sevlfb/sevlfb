@@ -19,6 +19,21 @@
   <img src="https://github.com/sevlfb/sevlfb/blob/main/img/esilv.jpg" width="24"/>
 </p>
 
+### 🌱 - Learning
+* Data Science
+* Data Engineering (Spark, HDFS)
+
+### 🤔 - What I think about
+* Discovering about the world of computer science
+* The job of Data Architect
+* The perspecives of Gen AI
+
+### 💼 - Work
+* Data Science
+* Data Engineering
+* Generative AI for NLP (Azure and AWS)
+
+
 ### 🖊️ - Experiences
 **Thales - Big Data Engineer Intern - Consulting for BNP Paribas** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/thales.jpg" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/bnp.jpg" width="24"/>\
 *February 2024 - August 2024* (Ongoing)
@@ -30,7 +45,8 @@
 * Presentation to Prompt Engineering (300+ viewers)
 * State of the Art for Genrative AI for NLP
 
-**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>\ 
+**MyAnatol - BI Engineer Intern - LOTANA TECH** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/myanatol.png" width="24"/> <img src="https://github.com/sevlfb/sevlfb/blob/main/img/lotanatech.png" height="18"/>
+
 *June 2021 - July 2021*
 * Prediction of CO2 emissions at city scale with Power BI
 * Customer segments for the IOS MyAnatol app
@@ -49,15 +65,15 @@
 * **Soft Skills** : *Méthodes Agiles* - *Intelligence Collective* - *Design Thinking* - *Leadership*
 
 **CSULB Long Beach University (Semester abroad: USA, California)** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/csulb.png" height="24"/>\
-*August 2021 - December 2021*\
+*August 2021 - December 2021*
 * Structures des données, Algorithmie
 * Thermodynamique
 * Statistiques avancées
 
 
 ### 🔭 - Projects
-**Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" width="24"/>\
-*September 2023 - January 2021*
+**Projet Pi² at ESILV : Vives x Microsoft, Friendly Chatbot** <img src="https://github.com/sevlfb/sevlfb/blob/main/img/microsoft.png" height="24"/>\
+*September 2023 - January 2021*\
 Creating a chatbot for **ViveS Media - Groupe Bayard**, supervides by **Microsoft France**
 * AWS Bedrock * Langchain * Streamlit
 * Crisis Management * Consulting * Technical Deliverables * Teamwork
@@ -65,15 +81,6 @@ Creating a chatbot for **ViveS Media - Groupe Bayard**, supervides by **Microsof
 **Recherche Track – 4th year at ESILV - (Touristic behavior prediction)**\
 Progress of a research project : State of the Art of Probabilistic Automata and Sequence Prediction. Symbolic AI.
 
-
-### 🌱 - Learning
-* Data Science
-* Data Engineering (Spark, HDFS)
-
-### 🤔 - What I think about
-* Discovering about the world of computer science
-* The job of Data Architect
-* The perspecives of Gen AI
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -84,7 +91,7 @@ Progress of a research project : State of the Art of Probabilistic Automata and 
 - ⚡ Fun fact: ...
 -->
 
-## My GitHub Stats (only public projects)
+## My GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sevlfb&theme=dark&background=000000)](https://git.io/streak-stats)
 
